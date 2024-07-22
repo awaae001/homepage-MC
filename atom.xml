@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>纸鹿摸鱼处</title>
+
+  <subtitle>纸鹿本鹿博客</subtitle>
+  <link href="https://blog.awaae001.top/atom.xml" rel="self"/>
+
+  <link href="https://blog.awaae001.top/"/>
+  <updated>2024-07-17T07:45:11.000Z</updated>
+  <id>https://blog.zhilu.cyou/</id>
+
+  <author>
+    <name>纸鹿本鹿</name>
+
+  </author>
+
+  <generator uri="https://hexo.io/">Hexo</generator>
+
+  <entry>
+    <title>Windows 空间管理/清理指南</title>
+    <link href="https://blog.zhilu.cyou/2024/windows-storage/"/>
+    <id>https://blog.zhilu.cyou/2024/windows-storage/</id>
+    <published>2024-07-12T16:29:36.000Z</published>
+    <updated>2024-07-17T07:45:11.000Z</updated>
+
+
+    <summary type="html">“软件装D盘”是且仅是旧日的经验之谈，如果想让电脑用起来更顺手，“无为而治”或许是个好选择。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/669776aed29f4-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="Windows" scheme="https://blog.zhilu.cyou/tags/Windows/"/>
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+    <category term="存储" scheme="https://blog.zhilu.cyou/tags/%E5%AD%98%E5%82%A8/"/>
+
+  </entry>
+
+  <entry>
+    <title>遭遇APP乱象：老人的「钱袋子」开线了</title>
+    <link href="https://blog.zhilu.cyou/2024/auto-payment/"/>
+    <id>https://blog.zhilu.cyou/2024/auto-payment/</id>
+    <published>2024-07-07T11:52:56.000Z</published>
+    <updated>2024-07-13T03:46:43.000Z</updated>
+
+
+    <summary type="html">继运营商扣费之后，家中老人又被华为宰了。扣款金额不多，但这无疑是对用户知情权利的践踏和侮辱。诱导自动扣款，开通容易取消难，是互联网APP们的丑恶常态。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6691f614da807-24.jpg" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+    <category term="华为" scheme="https://blog.zhilu.cyou/tags/%E5%8D%8E%E4%B8%BA/"/>
+
+    <category term="扣费" scheme="https://blog.zhilu.cyou/tags/%E6%89%A3%E8%B4%B9/"/>
+
+  </entry>
+
+  <entry>
+    <title>Moonlight 串流指南</title>
+    <link href="https://blog.zhilu.cyou/2024/moonlight-streaming-guide/"/>
+    <id>https://blog.zhilu.cyou/2024/moonlight-streaming-guide/</id>
+    <published>2024-01-18T10:58:55.000Z</published>
+    <updated>2024-07-08T04:51:35.000Z</updated>
+
+
+    <summary type="html">服务端Sunshine设置、客户端分辨率调整、隐私屏功能实现及触摸优化。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009b8f999-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="远程" scheme="https://blog.zhilu.cyou/tags/%E8%BF%9C%E7%A8%8B/"/>
+
+    <category term="tailscale" scheme="https://blog.zhilu.cyou/tags/tailscale/"/>
+
+    <category term="网络" scheme="https://blog.zhilu.cyou/tags/%E7%BD%91%E7%BB%9C/"/>
+
+    <category term="moonlight" scheme="https://blog.zhilu.cyou/tags/moonlight/"/>
+
+    <category term="sunshine" scheme="https://blog.zhilu.cyou/tags/sunshine/"/>
+
+  </entry>
+
+  <entry>
+    <title>Windows 终端体验优化指南</title>
+    <link href="https://blog.zhilu.cyou/2024/windows-terminal/"/>
+    <id>https://blog.zhilu.cyou/2024/windows-terminal/</id>
+    <published>2024-06-16T14:48:57.000Z</published>
+    <updated>2024-06-18T16:36:09.000Z</updated>
+
+
+    <summary type="html">一篇优化 Windows Terminal 体验的指南，涵盖 PowerShell 增强、Oh My Posh 主题配置、集成 Git Bash 以及终端美化等方面。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6671b766a4312-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="Windows" scheme="https://blog.zhilu.cyou/tags/Windows/"/>
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+    <category term="终端" scheme="https://blog.zhilu.cyou/tags/%E7%BB%88%E7%AB%AF/"/>
+
+  </entry>
+
+  <entry>
+    <title>封面被 Linux QQ 官方用了，但是有一些小缺陷</title>
+    <link href="https://blog.zhilu.cyou/2024/cover-copied/"/>
+    <id>https://blog.zhilu.cyou/2024/cover-copied/</id>
+    <published>2024-06-18T05:23:05.000Z</published>
+    <updated>2024-06-18T09:23:24.000Z</updated>
+
+
+    <summary type="html">怀疑 Linux QQ 团队使用了作者的封面图片，严谨求证后发现事实确实如此，并且因此找到了 Linux QQ 官网的 bug。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/66714b1f0bc35-24.jpg" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+    <category term="qq" scheme="https://blog.zhilu.cyou/tags/qq/"/>
+
+    <category term="软件" scheme="https://blog.zhilu.cyou/tags/%E8%BD%AF%E4%BB%B6/"/>
+
+  </entry>
+
+  <entry>
+    <title>有问题，就要讲出来。</title>
+    <link href="https://blog.zhilu.cyou/2024/problem-solved/"/>
+    <id>https://blog.zhilu.cyou/2024/problem-solved/</id>
+    <published>2024-06-04T00:02:36.000Z</published>
+    <updated>2024-06-10T17:06:28.000Z</updated>
+
+
+    <summary type="html">讲出来，修好了学校不通的路，解决了别人和我使用博客主题时遇到的问题，用 Nuxt.js 重构了个人网站，也配好了 Stylelint 和 Windows 上的 clangd。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="朋友" scheme="https://blog.zhilu.cyou/tags/%E6%9C%8B%E5%8F%8B/"/>
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+  </entry>
+
+  <entry>
+    <title>VS Code 简单配置项</title>
+    <link href="https://blog.zhilu.cyou/2023/vscode-simple-config/"/>
+    <id>https://blog.zhilu.cyou/2023/vscode-simple-config/</id>
+    <published>2023-04-13T12:05:50.000Z</published>
+    <updated>2024-06-07T16:04:21.000Z</updated>
+
+
+    <summary type="html">简单配置 VS Code，启用字体连字、平滑滚动、自动换行等功能，并设置 C 格式化风格，提升编辑器体验。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/65a8dcff71bdf-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="软件" scheme="https://blog.zhilu.cyou/tags/%E8%BD%AF%E4%BB%B6/"/>
+
+    <category term="vscode" scheme="https://blog.zhilu.cyou/tags/vscode/"/>
+
+  </entry>
+
+  <entry>
+    <title>使用 DOSBox 的多种方式</title>
+    <link href="https://blog.zhilu.cyou/2024/dosbox-setup/"/>
+    <id>https://blog.zhilu.cyou/2024/dosbox-setup/</id>
+    <published>2024-05-11T08:05:40.000Z</published>
+    <updated>2024-05-30T08:42:29.000Z</updated>
+
+
+    <summary type="html">DOSBox 放大画面、自动挂载、网页版和 VS Code 插件。</summary>
+
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="软件" scheme="https://blog.zhilu.cyou/tags/%E8%BD%AF%E4%BB%B6/"/>
+
+    <category term="DOSBox" scheme="https://blog.zhilu.cyou/tags/DOSBox/"/>
+
+  </entry>
+
+  <entry>
+    <title>SSH 免密登录</title>
+    <link href="https://blog.zhilu.cyou/2023/ssh-key-login/"/>
+    <id>https://blog.zhilu.cyou/2023/ssh-key-login/</id>
+    <published>2023-12-25T08:15:00.000Z</published>
+    <updated>2024-05-29T16:40:31.000Z</updated>
+
+
+    <summary type="html">生成SSH密钥，启用公钥认证，将公钥添加至授权列表，实现 Windows/Linux/GitHub SSH 免密登录。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009c87ec5-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="ssh" scheme="https://blog.zhilu.cyou/tags/ssh/"/>
+
+    <category term="远程" scheme="https://blog.zhilu.cyou/tags/%E8%BF%9C%E7%A8%8B/"/>
+
+  </entry>
+
+  <entry>
+    <title>Arch Linux 启动引导修复</title>
+    <link href="https://blog.zhilu.cyou/2024/archlinux-boot-repair/"/>
+    <id>https://blog.zhilu.cyou/2024/archlinux-boot-repair/</id>
+    <published>2024-04-01T15:14:39.000Z</published>
+    <updated>2024-05-28T16:27:53.000Z</updated>
+
+
+    <summary type="html">可以修复绝大多数 Arch Linux 无法启动的问题。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/66640097e0cbb-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="archlinux" scheme="https://blog.zhilu.cyou/tags/archlinux/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+  </entry>
+
+  <entry>
+    <title>Arch Linux 初步配置</title>
+    <link href="https://blog.zhilu.cyou/2023/archlinux-configure/"/>
+    <id>https://blog.zhilu.cyou/2023/archlinux-configure/</id>
+    <published>2023-06-24T01:31:15.000Z</published>
+    <updated>2024-05-26T16:26:18.000Z</updated>
+
+
+    <summary type="html">在 Arch Linux 系统上安装配置必备软件，如蓝牙、Yay、Zsh、输入法等。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009851eb0-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="archlinux" scheme="https://blog.zhilu.cyou/tags/archlinux/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+  </entry>
+
+  <entry>
+    <title>从 CSS 排序折腾到 Stylelint 和 PNPM</title>
+    <link href="https://blog.zhilu.cyou/2024/css-sort/"/>
+    <id>https://blog.zhilu.cyou/2024/css-sort/</id>
+    <published>2024-05-21T14:44:44.000Z</published>
+    <updated>2024-05-25T07:56:33.000Z</updated>
+
+
+    <summary type="html">试图不走寻常路，通过 PNPM 全局安装 Stylelint 实现 CSS 排序，却遭遇诸多挑战。理想的方案是否真的可行？</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009e81625-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+    <category term="软件" scheme="https://blog.zhilu.cyou/tags/%E8%BD%AF%E4%BB%B6/"/>
+
+  </entry>
+
+  <entry>
+    <title>Tailscale 不完全使用指南</title>
+    <link href="https://blog.zhilu.cyou/2023/tailscale-incomplete-guide/"/>
+    <id>https://blog.zhilu.cyou/2023/tailscale-incomplete-guide/</id>
+    <published>2023-10-08T02:34:00.000Z</published>
+    <updated>2024-05-16T00:30:47.000Z</updated>
+
+
+    <summary type="html">Tailscale 搭建虚拟局域网，支持多设备间轻松实现 Windows 文件共享、SSH 访问、远程桌面及 Moonlight 游戏串流。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009cce512-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="软件" scheme="https://blog.zhilu.cyou/tags/%E8%BD%AF%E4%BB%B6/"/>
+
+    <category term="远程" scheme="https://blog.zhilu.cyou/tags/%E8%BF%9C%E7%A8%8B/"/>
+
+    <category term="tailscale" scheme="https://blog.zhilu.cyou/tags/tailscale/"/>
+
+  </entry>
+
+  <entry>
+    <title>Arch Linux 易用性及美化</title>
+    <link href="https://blog.zhilu.cyou/2023/archlinux-beautify/"/>
+    <id>https://blog.zhilu.cyou/2023/archlinux-beautify/</id>
+    <published>2023-07-24T13:27:45.000Z</published>
+    <updated>2024-05-13T14:21:16.000Z</updated>
+
+
+    <summary type="html">Plasma 桌面环境下优化小键盘、触摸板行为，配置字体。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/666400971559b-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="archlinux" scheme="https://blog.zhilu.cyou/tags/archlinux/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+  </entry>
+
+  <entry>
+    <title>使用 ArchInstall 安装 Arch Linux</title>
+    <link href="https://blog.zhilu.cyou/2023/archinstall-guide/"/>
+    <id>https://blog.zhilu.cyou/2023/archinstall-guide/</id>
+    <published>2023-05-23T12:37:07.000Z</published>
+    <updated>2024-05-12T12:54:15.000Z</updated>
+
+
+    <summary type="html">在2024年5月版的 Arch Linux 安装镜像的基础上，使用 ArchInstall 安装系统全过程。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/66640095c770c-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="archlinux" scheme="https://blog.zhilu.cyou/tags/archlinux/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+  </entry>
+
+  <entry>
+    <title>被大块落冰砸中的话——</title>
+    <link href="https://blog.zhilu.cyou/2010s/danger-falling-ice/"/>
+    <id>https://blog.zhilu.cyou/2010s/danger-falling-ice/</id>
+    <published>2018-01-04T13:25:54.000Z</published>
+    <updated>2024-05-03T16:07:39.000Z</updated>
+
+
+    <summary type="html">放学路上遇到这种事情，也许就会当场重伤失去意识了吧。好在“第六感”救了我和朋友。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="初中" scheme="https://blog.zhilu.cyou/tags/%E5%88%9D%E4%B8%AD/"/>
+
+    <category term="朋友" scheme="https://blog.zhilu.cyou/tags/%E6%9C%8B%E5%8F%8B/"/>
+
+    <category term="危险" scheme="https://blog.zhilu.cyou/tags/%E5%8D%B1%E9%99%A9/"/>
+
+  </entry>
+
+  <entry>
+    <title>把博客文章按年份放在子文件夹中了</title>
+    <link href="https://blog.zhilu.cyou/2024/blog-link-pattern/"/>
+    <id>https://blog.zhilu.cyou/2024/blog-link-pattern/</id>
+    <published>2024-04-29T03:10:18.000Z</published>
+    <updated>2024-05-03T14:10:07.000Z</updated>
+
+
+    <summary type="html">同时更改了文章链接前缀，编写了跳转脚本，后来通过平台重定向规则实现更规范的跳转。</summary>
+
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="博客" scheme="https://blog.zhilu.cyou/tags/%E5%8D%9A%E5%AE%A2/"/>
+
+    <category term="网站" scheme="https://blog.zhilu.cyou/tags/%E7%BD%91%E7%AB%99/"/>
+
+  </entry>
+
+  <entry>
+    <title>今日有「假」</title>
+    <link href="https://blog.zhilu.cyou/2024/fake-today/"/>
+    <id>https://blog.zhilu.cyou/2024/fake-today/</id>
+    <published>2024-05-03T04:22:31.000Z</published>
+    <updated>2024-05-03T07:17:34.000Z</updated>
+
+
+    <summary type="html">外卖空包、无知造谣、钓鱼网站、山寨品牌、开源倒卖，世界这个草台班子有些「假」。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/66346bbe07c33-24.jpg" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+    <category term="大学" scheme="https://blog.zhilu.cyou/tags/%E5%A4%A7%E5%AD%A6/"/>
+
+  </entry>
+
+  <entry>
+    <title>Termux 简单指南</title>
+    <link href="https://blog.zhilu.cyou/2023/termux-guide/"/>
+    <id>https://blog.zhilu.cyou/2023/termux-guide/</id>
+    <published>2023-11-13T13:50:08.000Z</published>
+    <updated>2024-04-28T12:25:16.000Z</updated>
+
+
+    <summary type="html">Termux 安装、配置 SSH，切换国内源，安装 ZSH、X11 图形界面，探索更多可能性。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009d45024-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="软件" scheme="https://blog.zhilu.cyou/tags/%E8%BD%AF%E4%BB%B6/"/>
+
+    <category term="termux" scheme="https://blog.zhilu.cyou/tags/termux/"/>
+
+  </entry>
+
+  <entry>
+    <title>写过的奇妙代码。</title>
+    <link href="https://blog.zhilu.cyou/2024/magic-code/"/>
+    <id>https://blog.zhilu.cyou/2024/magic-code/</id>
+    <published>2024-04-07T04:32:11.000Z</published>
+    <updated>2024-04-07T12:38:20.000Z</updated>
+
+
+    <summary type="html">这些代码不算是 Best Practice，也不算是常见的写法，令人眼前一亮/黑。</summary>
+
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="Lab" scheme="https://blog.zhilu.cyou/tags/Lab/"/>
+
+  </entry>
+
+  <entry>
+    <title>在延长今天和期待明天之间</title>
+    <link href="https://blog.zhilu.cyou/2024/balancing-today-tomorrow/"/>
+    <id>https://blog.zhilu.cyou/2024/balancing-today-tomorrow/</id>
+    <published>2024-03-21T15:45:08.000Z</published>
+    <updated>2024-03-31T14:39:27.000Z</updated>
+
+
+    <summary type="html">一位大学生充实而琐碎的一天校园生活，在忙碌中对自我生活节奏和时间安排的反思。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/66006f656a35d-24.jpg" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="睡眠" scheme="https://blog.zhilu.cyou/tags/%E7%9D%A1%E7%9C%A0/"/>
+
+    <category term="大学" scheme="https://blog.zhilu.cyou/tags/%E5%A4%A7%E5%AD%A6/"/>
+
+  </entry>
+
+  <entry>
+    <title>今日无事，除了一些技术咨询</title>
+    <link href="https://blog.zhilu.cyou/2024/helping-day/"/>
+    <id>https://blog.zhilu.cyou/2024/helping-day/</id>
+    <published>2024-03-10T13:14:38.000Z</published>
+    <updated>2024-03-31T14:31:58.000Z</updated>
+
+
+    <summary type="html">一天中帮助朋友们解决各类问题，如软件警告甄别、平板选购咨询、远程协作实现、签到操作指导、下载文件查找、卸载工具推荐、AI代码探讨，展现技术分享与互助的价值。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="朋友" scheme="https://blog.zhilu.cyou/tags/%E6%9C%8B%E5%8F%8B/"/>
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+    <category term="大学" scheme="https://blog.zhilu.cyou/tags/%E5%A4%A7%E5%AD%A6/"/>
+
+  </entry>
+
+  <entry>
+    <title>病毒高占用CPU，三天杀俩</title>
+    <link href="https://blog.zhilu.cyou/2024/virus-trueupdate/"/>
+    <id>https://blog.zhilu.cyou/2024/virus-trueupdate/</id>
+    <published>2024-02-29T15:54:43.000Z</published>
+    <updated>2024-03-01T16:09:56.000Z</updated>
+
+
+    <summary type="html">2024年2月两次处理同一病毒导致随机进程名高CPU占用问题，推测源自盗版软件，成功清理TrueUpdate Client引入的相关病毒脚本。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009db743b-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+    <category term="Windows" scheme="https://blog.zhilu.cyou/tags/Windows/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+    <category term="病毒" scheme="https://blog.zhilu.cyou/tags/%E7%97%85%E6%AF%92/"/>
+
+  </entry>
+
+  <entry>
+    <title>运营商又想多收话费了</title>
+    <link href="https://blog.zhilu.cyou/2024/carrier-overbilling/"/>
+    <id>https://blog.zhilu.cyou/2024/carrier-overbilling/</id>
+    <published>2024-02-23T10:32:25.000Z</published>
+    <updated>2024-03-01T15:55:19.000Z</updated>
+
+
+    <summary type="html">亲身经历的三个电信服务案例，揭示了三大运营商诱导扣费的问题。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009994d5d-24.jpg" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+    <category term="大学" scheme="https://blog.zhilu.cyou/tags/%E5%A4%A7%E5%AD%A6/"/>
+
+  </entry>
+
+  <entry>
+    <title>系统引导配置分享</title>
+    <link href="https://blog.zhilu.cyou/2024/boot-management/"/>
+    <id>https://blog.zhilu.cyou/2024/boot-management/</id>
+    <published>2024-03-01T06:06:19.000Z</published>
+    <updated>2024-03-01T07:17:30.000Z</updated>
+
+
+    <summary type="html">指哪里就启动哪里——在 Windows 和 Linux 系统下实现重启至特定 EFI 引导项。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009916cea-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="Windows" scheme="https://blog.zhilu.cyou/tags/Windows/"/>
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="archlinux" scheme="https://blog.zhilu.cyou/tags/archlinux/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+  </entry>
+
+  <entry>
+    <title>Windows 安装指南</title>
+    <link href="https://blog.zhilu.cyou/2023/windows-setup-guide/"/>
+    <id>https://blog.zhilu.cyou/2023/windows-setup-guide/</id>
+    <published>2023-09-24T04:00:00.000Z</published>
+    <updated>2024-02-26T12:35:32.000Z</updated>
+
+
+    <summary type="html">使用 Ventoy、微 PE、Dism++ 安装系统，绕过账户限制并激活 Office 与 Windows，合理分区布局使数据安全有序。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/65b66289c9a2e-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="Windows" scheme="https://blog.zhilu.cyou/tags/Windows/"/>
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+  </entry>
+
+  <entry>
+    <title>他修电脑又遇到了我</title>
+    <link href="https://blog.zhilu.cyou/2021/classroom-pc-3/"/>
+    <id>https://blog.zhilu.cyou/2021/classroom-pc-3/</id>
+    <published>2021-12-05T03:03:00.000Z</published>
+    <updated>2024-02-16T07:52:49.000Z</updated>
+
+
+    <summary type="html">纸鹿在高中时又被喊去修教室电脑了，并且又和信息中心的凤师傅碰上了……</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+    <category term="电教" scheme="https://blog.zhilu.cyou/tags/%E7%94%B5%E6%95%99/"/>
+
+  </entry>
+
+  <entry>
+    <title>修监控 (授权转载)</title>
+    <link href="https://blog.zhilu.cyou/2021/classroom-pc-2/"/>
+    <id>https://blog.zhilu.cyou/2021/classroom-pc-2/</id>
+    <published>2021-07-08T16:00:00.000Z</published>
+    <updated>2024-02-16T07:48:52.000Z</updated>
+
+
+    <summary type="html">本文为 GuuGuai 所作的一篇影射性作品，文章记录了一位前来维修监控的师傅却因整顿校门而遭到反对的故事。而现实中，也发生过类似的事件。高中的IT凤师傅来到某班维修展台画面时断时续问题，但可能受到之前“展台卡顿——系统问题却误修展台本体”一事的影响，他将“扳手”伸向了电脑……</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+    <category term="电教" scheme="https://blog.zhilu.cyou/tags/%E7%94%B5%E6%95%99/"/>
+
+  </entry>
+
+  <entry>
+    <title>电脑是你修坏的吗</title>
+    <link href="https://blog.zhilu.cyou/2021/classroom-pc-1/"/>
+    <id>https://blog.zhilu.cyou/2021/classroom-pc-1/</id>
+    <published>2021-04-05T16:00:00.000Z</published>
+    <updated>2024-02-16T07:30:34.000Z</updated>
+
+
+    <summary type="html">教室一体机性能孱弱，19班教室电脑被其他班的学生换了系统，视频展台程序打开就卡死，于是被喊来帮忙的纸鹿正好与前来维修的高中的IT凤师傅撞见……</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+    <category term="电教" scheme="https://blog.zhilu.cyou/tags/%E7%94%B5%E6%95%99/"/>
+
+  </entry>
+
+  <entry>
+    <title>是否保存对“新建 Microsoft PowerPoint 演示文稿.ppt”的更改？</title>
+    <link href="https://blog.zhilu.cyou/2010s/essay1-where/"/>
+    <id>https://blog.zhilu.cyou/2010s/essay1-where/</id>
+    <published>2011-03-19T16:00:00.000Z</published>
+    <updated>2024-02-03T18:18:05.000Z</updated>
+
+
+    <summary type="html">博客补档时寻找早期随笔，回忆起由于误操作导致2011年撰写的“随笔一”丢失的故事。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="小学" scheme="https://blog.zhilu.cyou/tags/%E5%B0%8F%E5%AD%A6/"/>
+
+    <category term="博客" scheme="https://blog.zhilu.cyou/tags/%E5%8D%9A%E5%AE%A2/"/>
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+  </entry>
+
+  <entry>
+    <title>混入西工大，打 CTF 上大分！</title>
+    <link href="https://blog.zhilu.cyou/2022/ctf-nwpu/"/>
+    <id>https://blog.zhilu.cyou/2022/ctf-nwpu/</id>
+    <published>2022-09-06T13:02:00.000Z</published>
+    <updated>2024-02-03T11:55:49.000Z</updated>
+
+
+    <summary type="html">西工大第三届“探索·解密”趣味密码比赛-个人WriteUp。由西北工业大学信息安全协会负责的第三届“探索·解密”趣味密码比赛主要有Crypto、Misc方向的CTF题型，难度较易，适合入门。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/9sIibiadwv3fZKkd6byLH93QsQDWyGNaJxO0L3rLIJL5ND6KbbEBBonjHsEDXVNEW6iacNG6k39x74MAibRa9KM8Fw/0" type="image"/>
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="CTF" scheme="https://blog.zhilu.cyou/tags/CTF/"/>
+
+    <category term="大学" scheme="https://blog.zhilu.cyou/tags/%E5%A4%A7%E5%AD%A6/"/>
+
+  </entry>
+
+  <entry>
+    <title>小米电脑管家安装教程</title>
+    <link href="https://blog.zhilu.cyou/2024/milink-util/"/>
+    <id>https://blog.zhilu.cyou/2024/milink-util/</id>
+    <published>2024-01-31T14:16:39.000Z</published>
+    <updated>2024-02-01T06:20:10.000Z</updated>
+
+
+    <summary type="html">非小米笔记本安装小米电脑管家的方法及功能介绍，推荐 MiLink NFC 项目实现小米设备的一碰连/一碰传功能。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009b29739-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+    <category term="软件" scheme="https://blog.zhilu.cyou/tags/%E8%BD%AF%E4%BB%B6/"/>
+
+    <category term="远程" scheme="https://blog.zhilu.cyou/tags/%E8%BF%9C%E7%A8%8B/"/>
+
+    <category term="互联" scheme="https://blog.zhilu.cyou/tags/%E4%BA%92%E8%81%94/"/>
+
+    <category term="互传" scheme="https://blog.zhilu.cyou/tags/%E4%BA%92%E4%BC%A0/"/>
+
+    <category term="网络" scheme="https://blog.zhilu.cyou/tags/%E7%BD%91%E7%BB%9C/"/>
+
+    <category term="小米" scheme="https://blog.zhilu.cyou/tags/%E5%B0%8F%E7%B1%B3/"/>
+
+  </entry>
+
+  <entry>
+    <title>电脑连接手机，手机给电脑传文件……</title>
+    <link href="https://blog.zhilu.cyou/2024/link-util/"/>
+    <id>https://blog.zhilu.cyou/2024/link-util/</id>
+    <published>2024-01-31T16:28:48.000Z</published>
+    <updated>2024-01-31T16:53:30.000Z</updated>
+
+
+    <summary type="html">在同一局域网下，电脑与手机之间互传文件、屏幕投影和远程控制的各种方法。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009b04dea-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="Windows" scheme="https://blog.zhilu.cyou/tags/Windows/"/>
+
+    <category term="教程" scheme="https://blog.zhilu.cyou/tags/%E6%95%99%E7%A8%8B/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+    <category term="远程" scheme="https://blog.zhilu.cyou/tags/%E8%BF%9C%E7%A8%8B/"/>
+
+    <category term="安卓" scheme="https://blog.zhilu.cyou/tags/%E5%AE%89%E5%8D%93/"/>
+
+    <category term="互联" scheme="https://blog.zhilu.cyou/tags/%E4%BA%92%E8%81%94/"/>
+
+    <category term="互传" scheme="https://blog.zhilu.cyou/tags/%E4%BA%92%E4%BC%A0/"/>
+
+    <category term="网络" scheme="https://blog.zhilu.cyou/tags/%E7%BD%91%E7%BB%9C/"/>
+
+  </entry>
+
+  <entry>
+    <title>为了轻，再买一台</title>
+    <link href="https://blog.zhilu.cyou/2023/light-backpack/"/>
+    <id>https://blog.zhilu.cyou/2023/light-backpack/</id>
+    <published>2023-08-08T02:34:00.000Z</published>
+    <updated>2024-01-29T13:26:26.000Z</updated>
+
+
+    <summary type="html">为了减轻游戏本负重，作者先后利用手机充电器供电、购买迷你电脑主机；为了解决远程操作需求，尝试了多种远程控制方案，最终成功实现目标。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/65b6628ac8181-24.jpg" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="设备" scheme="https://blog.zhilu.cyou/tags/%E8%AE%BE%E5%A4%87/"/>
+
+    <category term="远程" scheme="https://blog.zhilu.cyou/tags/%E8%BF%9C%E7%A8%8B/"/>
+
+  </entry>
+
+  <entry>
+    <title>Linux 下简单 ls 命令的实现</title>
+    <link href="https://blog.zhilu.cyou/2023/zls/"/>
+    <id>https://blog.zhilu.cyou/2023/zls/</id>
+    <published>2023-03-18T14:20:20.000Z</published>
+    <updated>2023-11-30T14:39:04.000Z</updated>
+
+
+    <summary type="html">这个程序是一个基于C语言的命令行工具，用于在终端中展示指定目录下的文件信息。它的名字是“zls”。</summary>
+
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="Lab" scheme="https://blog.zhilu.cyou/tags/Lab/"/>
+
+    <category term="C语言" scheme="https://blog.zhilu.cyou/tags/C%E8%AF%AD%E8%A8%80/"/>
+
+  </entry>
+
+  <entry>
+    <title>xv6 lab环境配置</title>
+    <link href="https://blog.zhilu.cyou/2023/xv6-lab-setup/"/>
+    <id>https://blog.zhilu.cyou/2023/xv6-lab-setup/</id>
+    <published>2023-11-20T09:09:28.000Z</published>
+    <updated>2023-11-20T09:09:28.000Z</updated>
+
+
+    <summary type="html">配置 MIT 6.S081 操作系统课程中的 xv6 实验环境，包括 RISC-V 和 QEMU 安装，调整 Makefile 编译选项，以及 VSCode 和 clangd 相关设置。</summary>
+
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="实验室" scheme="https://blog.zhilu.cyou/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+
+    <category term="Lab" scheme="https://blog.zhilu.cyou/tags/Lab/"/>
+
+  </entry>
+
+  <entry>
+    <title>西邮Linux兴趣小组2020纳新面试题题解</title>
+    <link href="https://blog.zhilu.cyou/2022/linux-interview-2020/"/>
+    <id>https://blog.zhilu.cyou/2022/linux-interview-2020/</id>
+    <published>2022-11-20T05:57:19.000Z</published>
+    <updated>2023-11-10T13:08:28.000Z</updated>
+
+
+    <summary type="html"></summary>
+
+
+    <content src="https://7.isyangs.cn/24/65a8dcfb73493-24.jpg" type="image"/>
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="实验室" scheme="https://blog.zhilu.cyou/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+
+    <category term="Lab" scheme="https://blog.zhilu.cyou/tags/Lab/"/>
+
+    <category term="C语言" scheme="https://blog.zhilu.cyou/tags/C%E8%AF%AD%E8%A8%80/"/>
+
+  </entry>
+
+  <entry>
+    <title>Linux QQ 崩溃解决办法</title>
+    <link href="https://blog.zhilu.cyou/2023/linuxqq-crash/"/>
+    <id>https://blog.zhilu.cyou/2023/linuxqq-crash/</id>
+    <published>2023-03-16T13:02:22.000Z</published>
+    <updated>2023-08-09T09:20:11.000Z</updated>
+
+
+    <summary type="html">针对 Linux QQ 崩溃问题，给出了临时和长期解决办法。QQ 软件的崩溃数据会影响其正常运行。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/65a8dcff995c4-24.jpg" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+    <category term="qq" scheme="https://blog.zhilu.cyou/tags/qq/"/>
+
+    <category term="软件" scheme="https://blog.zhilu.cyou/tags/%E8%BD%AF%E4%BB%B6/"/>
+
+  </entry>
+
+  <entry>
+    <title>简单实现C语言字符串缓冲区</title>
+    <link href="https://blog.zhilu.cyou/2023/c-strbuf/"/>
+    <id>https://blog.zhilu.cyou/2023/c-strbuf/</id>
+    <published>2023-01-01T15:58:33.000Z</published>
+    <updated>2023-07-30T03:45:33.000Z</updated>
+
+
+    <summary type="html">设计一个C语言的动态扩容缓冲区，是西邮 Linux 兴趣小组的 Lab 报告。</summary>
+
+
+    <content src="https://7.isyangs.cn/24/6664009a7190a-24.jpg" type="image"/>
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="实验室" scheme="https://blog.zhilu.cyou/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+
+    <category term="Lab" scheme="https://blog.zhilu.cyou/tags/Lab/"/>
+
+    <category term="C语言" scheme="https://blog.zhilu.cyou/tags/C%E8%AF%AD%E8%A8%80/"/>
+
+  </entry>
+
+  <entry>
+    <title>西邮Linux兴趣小组2021纳新面试题题解</title>
+    <link href="https://blog.zhilu.cyou/2022/linux-interview-2021/"/>
+    <id>https://blog.zhilu.cyou/2022/linux-interview-2021/</id>
+    <published>2022-11-20T04:52:52.000Z</published>
+    <updated>2023-07-30T03:45:33.000Z</updated>
+
+
+    <summary type="html"></summary>
+
+
+    <content src="https://7.isyangs.cn/24/65a8dcfb647c2-24.jpg" type="image"/>
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="实验室" scheme="https://blog.zhilu.cyou/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+
+    <category term="Lab" scheme="https://blog.zhilu.cyou/tags/Lab/"/>
+
+    <category term="C语言" scheme="https://blog.zhilu.cyou/tags/C%E8%AF%AD%E8%A8%80/"/>
+
+  </entry>
+
+  <entry>
+    <title>西邮Linux兴趣小组2022纳新面试题题解</title>
+    <link href="https://blog.zhilu.cyou/2022/linux-interview-2022/"/>
+    <id>https://blog.zhilu.cyou/2022/linux-interview-2022/</id>
+    <published>2022-11-19T14:32:46.000Z</published>
+    <updated>2023-07-30T03:45:33.000Z</updated>
+
+
+    <summary type="html"></summary>
+
+
+    <content src="https://7.isyangs.cn/24/65a8dcfb2a43b-24.jpg" type="image"/>
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="实验室" scheme="https://blog.zhilu.cyou/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+
+    <category term="Lab" scheme="https://blog.zhilu.cyou/tags/Lab/"/>
+
+    <category term="C语言" scheme="https://blog.zhilu.cyou/tags/C%E8%AF%AD%E8%A8%80/"/>
+
+  </entry>
+
+  <entry>
+    <title>C语言字符串时间获取下一秒的思考</title>
+    <link href="https://blog.zhilu.cyou/2022/c-next-sec/"/>
+    <id>https://blog.zhilu.cyou/2022/c-next-sec/</id>
+    <published>2022-12-18T11:53:37.000Z</published>
+    <updated>2023-03-18T14:09:08.000Z</updated>
+
+
+    <summary type="html">“回字有四样写法”，在 C 语言中，我为「获取下一秒」找了四种写法。</summary>
+
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="Lab" scheme="https://blog.zhilu.cyou/tags/Lab/"/>
+
+    <category term="C语言" scheme="https://blog.zhilu.cyou/tags/C%E8%AF%AD%E8%A8%80/"/>
+
+  </entry>
+
+  <entry>
+    <title>西邮网安技能赛WriteUp</title>
+    <link href="https://blog.zhilu.cyou/2022/ctf-xupt-skill/"/>
+    <id>https://blog.zhilu.cyou/2022/ctf-xupt-skill/</id>
+    <published>2022-11-05T15:13:52.000Z</published>
+    <updated>2022-12-04T14:18:50.000Z</updated>
+
+
+    <summary type="html">主办方组织能力、办事水平有待提升。自此之后，作者再未参与过 CTF 赛事。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/9sIibiadwv3fbR2djcvEqTjtOJavT3z9ibWSpuCJ6wj9ejjZz9Dp9l0NoRjRqXjZIibsKORpAk3WFEE4k5r02cdtXQ/640" type="image"/>
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="CTF" scheme="https://blog.zhilu.cyou/tags/CTF/"/>
+
+    <category term="大学" scheme="https://blog.zhilu.cyou/tags/%E5%A4%A7%E5%AD%A6/"/>
+
+  </entry>
+
+  <entry>
+    <title>西邮GCTF2022-个人WriteUp</title>
+    <link href="https://blog.zhilu.cyou/2022/ctf-xupt-gctf/"/>
+    <id>https://blog.zhilu.cyou/2022/ctf-xupt-gctf/</id>
+    <published>2022-09-28T11:40:10.000Z</published>
+    <updated>2022-11-13T08:11:55.000Z</updated>
+
+
+    <summary type="html">西邮GCTF2022新生赛参与记录。领到了奖品，感觉不错。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/9sIibiadwv3fbR2djcvEqTjtOJavT3z9ibWTVjL3YA0cJOwfvEHD7TlUuc6hKE0QZqwka3qpbZdJ403WNjNDuuktw/640" type="image"/>
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="CTF" scheme="https://blog.zhilu.cyou/tags/CTF/"/>
+
+    <category term="大学" scheme="https://blog.zhilu.cyou/tags/%E5%A4%A7%E5%AD%A6/"/>
+
+  </entry>
+
+  <entry>
+    <title>周四在FF305，在了又在。</title>
+    <link href="https://blog.zhilu.cyou/2022/thoughts-in-classroom/"/>
+    <id>https://blog.zhilu.cyou/2022/thoughts-in-classroom/</id>
+    <published>2022-10-08T10:01:00.000Z</published>
+    <updated>2022-10-08T10:01:00.000Z</updated>
+
+
+    <summary type="html">2022年10月8日，周六调休，按周四课表在FF305度过一天，经历刺激小测验、亲切导学和轻松美育课，体验大学生活的多彩瞬间。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/9sIibiadwv3fanhCXLENPFNE8ERNJ9cAIZgBT0gb6K2IefVfqokxbo6DhCpQscdEdktPR0jCvafyZesFxmxgLfQg/0" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+    <category term="拍照" scheme="https://blog.zhilu.cyou/tags/%E6%8B%8D%E7%85%A7/"/>
+
+    <category term="大学" scheme="https://blog.zhilu.cyou/tags/%E5%A4%A7%E5%AD%A6/"/>
+
+  </entry>
+
+  <entry>
+    <title>“ 熟 贼 难 防 ”</title>
+    <link href="https://blog.zhilu.cyou/2022/school-thief/"/>
+    <id>https://blog.zhilu.cyou/2022/school-thief/</id>
+    <published>2022-01-19T16:00:00.000Z</published>
+    <updated>2022-01-22T14:49:00.000Z</updated>
+
+
+    <summary type="html">高中生活中多次出现个人物品丢失的现象，揭示了中学中难以防范的失窃行为，引发对于尊重他人私人物品和个人空间的思考。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/9sIibiadwv3fZOET0iaB29muw24RYFpe5n4XHbzicWrMekkx4bQ1xm2NCdC3Rlk53icpyqOpJSH9f4bGGJm9861Qibjg/0" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+    <category term="班级" scheme="https://blog.zhilu.cyou/tags/%E7%8F%AD%E7%BA%A7/"/>
+
+  </entry>
+
+  <entry>
+    <title>考试时钟的升级打怪攻略</title>
+    <link href="https://blog.zhilu.cyou/2021/exam-clock-develop/"/>
+    <id>https://blog.zhilu.cyou/2021/exam-clock-develop/</id>
+    <published>2021-10-01T13:30:00.000Z</published>
+    <updated>2021-11-07T06:08:00.000Z</updated>
+
+
+    <summary type="html">为应对考试场景而开发并不断优化升级“考试时钟”网页应用的过程，从最初为解决学生看不清挂钟问题而创建，经历多次功能迭代，如增加科目倒计时、支持不同年级文理科切换、临时添加考试科目等功能。最终，这款“考试时钟”在多个年级得到广泛应用，并持续在线升级服务考试需求。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/9sIibiadwv3fakRBg1y4yOeSUKNE2Sdf26M22aKhJHOahC7fkdKpHsgTpQQgtia5uN4ROYAgd2bOzPD5Yzb0LOibgA/640" type="image"/>
+
+
+    <category term="代码" scheme="https://blog.zhilu.cyou/categories/%E4%BB%A3%E7%A0%81/"/>
+
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+    <category term="电教" scheme="https://blog.zhilu.cyou/tags/%E7%94%B5%E6%95%99/"/>
+
+  </entry>
+
+  <entry>
+    <title>听说了两个关于我的消息</title>
+    <link href="https://blog.zhilu.cyou/2021/message-heard/"/>
+    <id>https://blog.zhilu.cyou/2021/message-heard/</id>
+    <published>2021-11-07T06:08:00.000Z</published>
+    <updated>2021-11-07T06:08:00.000Z</updated>
+
+
+    <summary type="html">在进入高三忙碌阶段后得知的两个趣闻轶事。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/9sIibiadwv3fZclobj17h7XiawIziavdejl55ziahIqnyXrJV1YibpXxSZNMj6yybyo5ic6pF5f1K6NulElicVCCnDeaiag/640" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+  </entry>
+
+  <entry>
+    <title>零基础，莫名参加了网安决赛</title>
+    <link href="https://blog.zhilu.cyou/2021/noob-in-ctf/"/>
+    <id>https://blog.zhilu.cyou/2021/noob-in-ctf/</id>
+    <published>2021-10-19T16:00:00.000Z</published>
+    <updated>2021-11-07T06:08:00.000Z</updated>
+
+
+    <summary type="html">零基础高中生因技术名声被选中参加全国网络安全决赛，误入CTF竞赛领域，仅凭前端知识参赛。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/9sIibiadwv3fYUK7hslxhyibEjh7Yc4MRhRz0OWyVibZnk89pSH7aeFkXicBOS42b6hjUJfx1x9S4CgkSCQaZrMoWWg/640" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="电教" scheme="https://blog.zhilu.cyou/tags/%E7%94%B5%E6%95%99/"/>
+
+    <category term="CTF" scheme="https://blog.zhilu.cyou/tags/CTF/"/>
+
+  </entry>
+
+  <entry>
+    <title>夏天，放学路上</title>
+    <link href="https://blog.zhilu.cyou/2021/way-home/"/>
+    <id>https://blog.zhilu.cyou/2021/way-home/</id>
+    <published>2021-09-30T11:05:24.000Z</published>
+    <updated>2021-10-10T05:54:00.000Z</updated>
+
+
+    <summary type="html"></summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/9sIibiadwv3fb0bmOJ0WDHSIh5QLePxjwe81pcvtkjq9zVIVuZBakAh3ibRMdOXSPTLkYblS2dGN6V7B10BSWqoiaA/" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="拍照" scheme="https://blog.zhilu.cyou/tags/%E6%8B%8D%E7%85%A7/"/>
+
+  </entry>
+
+  <entry>
+    <title>一杯水浇碎了我的失利</title>
+    <link href="https://blog.zhilu.cyou/2021/bad-grade-gone/"/>
+    <id>https://blog.zhilu.cyou/2021/bad-grade-gone/</id>
+    <published>2021-10-09T14:29:00.000Z</published>
+    <updated>2021-10-09T15:33:00.000Z</updated>
+
+
+    <summary type="html">桌上写着的考试名次被同桌的水杯晕开了。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/9sIibiadwv3fb0bmOJ0WDHSIh5QLePxjweNYr4bLDnz83cm1N2hg66zEmH2NQLV3uSOx2D9KZzo9m5I4yA1vsaaQ/640" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+  </entry>
+
+  <entry>
+    <title>假文件夹病毒真的会发作</title>
+    <link href="https://blog.zhilu.cyou/2021/virus-fakefolder/"/>
+    <id>https://blog.zhilu.cyou/2021/virus-fakefolder/</id>
+    <published>2021-05-08T15:08:30.000Z</published>
+    <updated>2021-10-01T13:30:00.000Z</updated>
+
+
+    <summary type="html">2021年5月，高中校园发生假文件夹病毒事件，通过U盘传播，病毒伪装文件夹并定时删除数据。预防措施包括留意文件夹图标异常，安装杀毒软件并正确显示隐藏文件以识别和清除病毒。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/9sIibiadwv3fakRBg1y4yOeSUKNE2Sdf26SuYFj0v7jz4Wpao1JAzlibcKia6mPLktFvKabXAcWOsZbxIB01DdGnCQ/640" type="image"/>
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="Windows" scheme="https://blog.zhilu.cyou/tags/Windows/"/>
+
+    <category term="系统" scheme="https://blog.zhilu.cyou/tags/%E7%B3%BB%E7%BB%9F/"/>
+
+    <category term="病毒" scheme="https://blog.zhilu.cyou/tags/%E7%97%85%E6%AF%92/"/>
+
+  </entry>
+
+  <entry>
+    <title>持不稳的黄昏</title>
+    <link href="https://blog.zhilu.cyou/2021/shot-at-dusk/"/>
+    <id>https://blog.zhilu.cyou/2021/shot-at-dusk/</id>
+    <published>2021-08-10T11:50:28.000Z</published>
+    <updated>2021-09-25T01:12:00.000Z</updated>
+
+
+    <summary type="html"></summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/9sIibiadwv3fYmiagTWUXm7NjnYBWSaHvekXibO0hSfWY6y8LowhqtgX6C3N3HLefMBkmE3Rv3iaBibrFDHP7K5qOGOQ/0" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="拍照" scheme="https://blog.zhilu.cyou/tags/%E6%8B%8D%E7%85%A7/"/>
+
+  </entry>
+
+  <entry>
+    <title>高中无聊的日记节选</title>
+    <link href="https://blog.zhilu.cyou/2020/school-diary/"/>
+    <id>https://blog.zhilu.cyou/2020/school-diary/</id>
+    <published>2020-06-14T07:27:00.000Z</published>
+    <updated>2021-09-24T16:00:00.000Z</updated>
+
+
+    <summary type="html">一名男高中生2020年6月至2021年9月的生活片段，包括与同桌一起分享日记、日常生活趣事、学业起伏、与同学互动以及心态变化等，展现了高中生活的多彩与挑战。</summary>
+
+
+    <content src="https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/9sIibiadwv3fb0bmOJ0WDHSIh5QLePxjwe8Uc32M5n1jGL4A9KgZZ0ZNicrEqwSQRtJ6yg5HicDxnVbSzkmTssX1hw/640" type="image"/>
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+  </entry>
+
+  <entry>
+    <title>生活就是魔幻现实主义</title>
+    <link href="https://blog.zhilu.cyou/2020/life-is-dramatic/"/>
+    <id>https://blog.zhilu.cyou/2020/life-is-dramatic/</id>
+    <published>2020-10-03T05:18:00.000Z</published>
+    <updated>2021-02-11T13:28:00.000Z</updated>
+
+
+    <summary type="html">集合了多位高中生在2020年国庆假期期间的心情感悟和生活琐事，内容涵盖学业压力、考试成绩、生活态度、社交互动等方面，展示了他们在面对成长挑战、情绪起伏和梦想追求时表现出的真实、幽默与迷茫，体现出浓厚的魔幻现实主义色彩。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="校园" scheme="https://blog.zhilu.cyou/tags/%E6%A0%A1%E5%9B%AD/"/>
+
+  </entry>
+
+  <entry>
+    <title>父亲的生日</title>
+    <link href="https://blog.zhilu.cyou/2020/father-birthday/"/>
+    <id>https://blog.zhilu.cyou/2020/father-birthday/</id>
+    <published>2020-02-20T16:00:00.000Z</published>
+    <updated>2020-02-21T16:17:00.000Z</updated>
+
+
+    <summary type="html">在高一时，意识到父亲即将度过44周岁生日却可能因忙碌而忘记此事，感慨父亲从农村到城市一路走来的艰辛与付出，承载着对子女深切的期望。同时，以一首诗的形式表达对父亲深沉的敬爱与感激之情。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="家人" scheme="https://blog.zhilu.cyou/tags/%E5%AE%B6%E4%BA%BA/"/>
+
+  </entry>
+
+  <entry>
+    <title>随笔四</title>
+    <link href="https://blog.zhilu.cyou/2020/essay4/"/>
+    <id>https://blog.zhilu.cyou/2020/essay4/</id>
+    <published>2020-02-20T08:00:00.000Z</published>
+    <updated>2020-02-20T08:00:00.000Z</updated>
+
+
+    <summary type="html">高中生在疫情初期所写的随笔，针对当时的社会状况提供了预防新冠肺炎的实用建议，包括减少外出、正确佩戴口罩、避免聚集、保持通风、适当锻炼、培养兴趣以及保持积极心态，并表达了对战胜疫情的信心与决心。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="疫情" scheme="https://blog.zhilu.cyou/tags/%E7%96%AB%E6%83%85/"/>
+
+  </entry>
+
+  <entry>
+    <title>随笔三</title>
+    <link href="https://blog.zhilu.cyou/2020/essay3/"/>
+    <id>https://blog.zhilu.cyou/2020/essay3/</id>
+    <published>2020-02-10T16:30:00.000Z</published>
+    <updated>2020-02-11T11:04:00.000Z</updated>
+
+
+    <summary type="html">在2020年初新冠疫情爆发期间居家隔离时所写的随笔，记录了因疫情被困家中而生出的各种琐碎日常、观察感悟及个人成长历程，并表达了对恢复正常生活的期待。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+    <category term="疫情" scheme="https://blog.zhilu.cyou/tags/%E7%96%AB%E6%83%85/"/>
+
+  </entry>
+
+  <entry>
+    <title>纸鹿站记</title>
+    <link href="https://blog.zhilu.cyou/2010s/zhilu-site-biography/"/>
+    <id>https://blog.zhilu.cyou/2010s/zhilu-site-biography/</id>
+    <published>2019-08-08T14:01:00.000Z</published>
+    <updated>2019-12-27T14:17:00.000Z</updated>
+
+
+    <summary type="html">建成个人网站之后撰写的一段文言文。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="网站" scheme="https://blog.zhilu.cyou/tags/%E7%BD%91%E7%AB%99/"/>
+
+    <category term="文言文" scheme="https://blog.zhilu.cyou/tags/%E6%96%87%E8%A8%80%E6%96%87/"/>
+
+  </entry>
+
+  <entry>
+    <title>记一个陕西中考分数查询系统漏洞</title>
+    <link href="https://blog.zhilu.cyou/2010s/score-query-leak/"/>
+    <id>https://blog.zhilu.cyou/2010s/score-query-leak/</id>
+    <published>2019-07-23T14:53:00.000Z</published>
+    <updated>2019-09-08T03:03:00.000Z</updated>
+
+
+    <summary type="html">2019年陕西中考成绩公布前，发现中考分数查询系统的漏洞，可以提前获取并确认成绩准确性，帮助了许多无法正常查询成绩的同学。</summary>
+
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="初中" scheme="https://blog.zhilu.cyou/tags/%E5%88%9D%E4%B8%AD/"/>
+
+    <category term="高中" scheme="https://blog.zhilu.cyou/tags/%E9%AB%98%E4%B8%AD/"/>
+
+  </entry>
+
+  <entry>
+    <title>Windows 7 开机动画的制作</title>
+    <link href="https://blog.zhilu.cyou/2010s/windows-launch-anim/"/>
+    <id>https://blog.zhilu.cyou/2010s/windows-launch-anim/</id>
+    <published>2018-05-18T12:47:20.000Z</published>
+    <updated>2018-08-27T13:33:10.000Z</updated>
+
+
+    <summary type="html">介绍了如何利用 Flash CS5 和 Photoshop CS5 制作 Windows 7 系统的开机动画，以及最终通过软媒美化大师将其应用至 Windows 7 启动画面的过程。</summary>
+
+
+
+    <category term="经验分享" scheme="https://blog.zhilu.cyou/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="Windows" scheme="https://blog.zhilu.cyou/tags/Windows/"/>
+
+  </entry>
+
+  <entry>
+    <title>学业是有压力的</title>
+    <link href="https://blog.zhilu.cyou/2010s/school-stress/"/>
+    <id>https://blog.zhilu.cyou/2010s/school-stress/</id>
+    <published>2016-06-11T02:33:00.000Z</published>
+    <updated>2016-12-24T16:38:00.000Z</updated>
+
+
+    <summary type="html">“小升初”阶段面对繁重学业压力，通过辅导班负担、写作业熬夜、一周消耗大量笔芯等情况，反映学生时代的艰辛与付出。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="小学" scheme="https://blog.zhilu.cyou/tags/%E5%B0%8F%E5%AD%A6/"/>
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="初中" scheme="https://blog.zhilu.cyou/tags/%E5%88%9D%E4%B8%AD/"/>
+
+    <category term="补习班" scheme="https://blog.zhilu.cyou/tags/%E8%A1%A5%E4%B9%A0%E7%8F%AD/"/>
+
+  </entry>
+
+  <entry>
+    <title>第一部智能手机</title>
+    <link href="https://blog.zhilu.cyou/2010s/phone-2015/"/>
+    <id>https://blog.zhilu.cyou/2010s/phone-2015/</id>
+    <published>2015-05-18T16:00:00.000Z</published>
+    <updated>2015-05-20T16:00:00.000Z</updated>
+
+
+    <summary type="html">2015年上四年级时购入红米 Note 1S，遭遇卡顿、预装软件等问题，通过售后刷机修复，启蒙对于安卓系统的研究，使用至2018年。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="小学" scheme="https://blog.zhilu.cyou/tags/%E5%B0%8F%E5%AD%A6/"/>
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="设备" scheme="https://blog.zhilu.cyou/tags/%E8%AE%BE%E5%A4%87/"/>
+
+    <category term="问题" scheme="https://blog.zhilu.cyou/tags/%E9%97%AE%E9%A2%98/"/>
+
+  </entry>
+
+  <entry>
+    <title>记一场奇怪的梦</title>
+    <link href="https://blog.zhilu.cyou/2010s/have-a-strange-dream/"/>
+    <id>https://blog.zhilu.cyou/2010s/have-a-strange-dream/</id>
+    <published>2014-08-16T14:58:00.000Z</published>
+    <updated>2014-10-04T08:17:00.000Z</updated>
+
+
+    <summary type="html">小学四年级暑假所写，记录了一场受电子琴考级压力影响而做的奇怪梦境，其中包含了一系列不连贯且超现实的情节，如找座位、体检、遭遇理发推销、与父亲互动及电脑屏幕显示神秘字样等内容，最后在5点55分55秒被吓醒，并对此时间感到惊讶，认为可能是对考级的某种预兆。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="小学" scheme="https://blog.zhilu.cyou/tags/%E5%B0%8F%E5%AD%A6/"/>
+
+    <category term="说说" scheme="https://blog.zhilu.cyou/tags/%E8%AF%B4%E8%AF%B4/"/>
+
+    <category term="补习班" scheme="https://blog.zhilu.cyou/tags/%E8%A1%A5%E4%B9%A0%E7%8F%AD/"/>
+
+    <category term="睡眠" scheme="https://blog.zhilu.cyou/tags/%E7%9D%A1%E7%9C%A0/"/>
+
+    <category term="梦" scheme="https://blog.zhilu.cyou/tags/%E6%A2%A6/"/>
+
+  </entry>
+
+  <entry>
+    <title>不想去幼儿园</title>
+    <link href="https://blog.zhilu.cyou/2000s/letter-in-kindergarton/"/>
+    <id>https://blog.zhilu.cyou/2000s/letter-in-kindergarton/</id>
+    <published>2009-06-22T16:00:00.000Z</published>
+    <updated>2009-09-21T16:00:00.000Z</updated>
+
+
+    <summary type="html">2009年的夏天不想上幼儿园，在幼儿园给妈妈写了封信。三个月后是六岁生日，礼物是一本相册，这封信随之装入其中。</summary>
+
+
+
+    <category term="生活" scheme="https://blog.zhilu.cyou/categories/%E7%94%9F%E6%B4%BB/"/>
+
+
+    <category term="幼儿园" scheme="https://blog.zhilu.cyou/tags/%E5%B9%BC%E5%84%BF%E5%9B%AD/"/>
+
+    <category term="信" scheme="https://blog.zhilu.cyou/tags/%E4%BF%A1/"/>
+
+  </entry>
+
+</feed>
