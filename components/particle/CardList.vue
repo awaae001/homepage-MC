@@ -14,16 +14,8 @@ defineProps<{
 
 <style scoped>
 .z-card-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    overflow-x: auto;
-    animation: check;
-    animation-timeline: scroll(x self);
-
-    >* {
-        flex: 1;
-    }
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
 }
 
 @keyframes check {
