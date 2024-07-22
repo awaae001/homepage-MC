@@ -11,6 +11,18 @@ const themeStore = useThemeStore();
     </div>
 </template>
 
+<script>
+export default {
+  mounted() {
+    const script = document.createElement('script');
+    script.src = "https://umami.awaae001.top/random-string.js";
+    script.defer = true;
+    script.dataset.websiteId = "ccd6fb76-c91b-403b-bd79-c75b11102a56";
+    document.head.appendChild(script);
+  }
+}
+</script>
+
 <style scoped lang="scss">
 #z-header {
     display: flex;

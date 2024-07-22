@@ -39,6 +39,14 @@ const orgSites = [
         name: 'awaae001', nameAlt: '最大摸鱼王',
         desc: '服务器最大摸鱼王、死亡榜常年霸榜者，最菜的人，服务器公认尼哥。常年只进语音，不玩服务器',
         img: 'https://image.m-c.top/?/images/2024/07/22/go46Vs3lV2/awaae001.png',
+    },{
+        name: 'xxc333', nameAlt: '',
+        desc: '此用户没有提供任何有关于自己的信息，这里的信息是为了保证显示正常，此为占位符',
+        img: 'https://image.m-c.top/?/images/2024/07/23/LNuJwBC6ZT/xxc333.png',
+    },{
+        name: 'Camellialovesher.png', nameAlt: '',
+        desc: '此用户没有提供任何有关于自己的信息，这里的信息是为了保证显示正常，此为占位符',
+        img: 'https://image.m-c.top/?/images/2024/07/23/tDpEv8Muuo/Camellialovesher.png',
     },
     /** 
     {
