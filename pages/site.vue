@@ -1,6 +1,6 @@
 <script setup lang="ts">
-useHead({ title: '站点' });
-definePageMeta({ headerText: '一些网站' });
+useHead({ title: '成员' });
+definePageMeta({ headerText: '大佬和肝帝们！' });
 
 const toolSites = [
 {
