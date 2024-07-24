@@ -14,6 +14,7 @@ const nav = [
         title: '加入我们', list: [
             { icon: "ri:qq-fill", title: "群:796461662 ", link: "https://qm.qq.com/q/yX3MBawIdG", external: true },
             { icon: "ph:planet-duotone", title: "主页",link: "https://mckfs.com", external:true},
+            { icon: "ph:planet-duotone", title: "统计",link: "https://umami.awaae001.top/share/5R6RYt87DrJNvTTO/oio.mckfs.com", external:true},
             { icon: "ph:github-logo-duotone", title: "Github", link: "https://github.com/L33Z22L11", external: true },
         ],
     }
