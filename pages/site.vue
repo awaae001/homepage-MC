@@ -44,7 +44,7 @@ const orgSites = [
         desc: '此用户没有提供任何有关于自己的信息，这里的信息是为了保证显示正常，此为占位符',
         img: 'https://image.m-c.top/?/images/2024/07/23/LNuJwBC6ZT/xxc333.png',
     },{
-        name: 'Camellialovesher.png', nameAlt: '',
+        name: 'Camellialovesher', nameAlt: '',
         desc: '此用户没有提供任何有关于自己的信息，这里的信息是为了保证显示正常，此为占位符',
         img: 'https://image.m-c.top/?/images/2024/07/23/tDpEv8Muuo/Camellialovesher.png',
     },
