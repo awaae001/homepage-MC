@@ -22,8 +22,9 @@ export default {
     document.head.appendChild(script);
   }
 }
-</script>
 */
+</script>
+
 <style scoped lang="scss">
 #z-header {
     display: flex;
