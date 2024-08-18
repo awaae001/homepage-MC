@@ -12,6 +12,7 @@ const themeStore = useThemeStore();
 </template>
 
 <script>
+/*
 export default {
   mounted() {
     const script = document.createElement('script');
@@ -22,7 +23,7 @@ export default {
   }
 }
 </script>
-
+*/
 <style scoped lang="scss">
 #z-header {
     display: flex;
